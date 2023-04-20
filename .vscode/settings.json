@@ -9,10 +9,5 @@
     ],
     "python.testing.pytestEnabled": false,
     "python.testing.unittestEnabled": true,
-    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
-    "workbench.colorCustomizations": {
-        "activityBar.background": "#4C1D36",
-        "titleBar.activeBackground": "#6B284C",
-        "titleBar.activeForeground": "#FCF8FB"
-    }
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools"
 }
